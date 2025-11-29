@@ -1,0 +1,127 @@
+
+ body{
+
+   background-color: #806046e8;
+
+ }
+
+ 
+
+ header{
+
+  background-image: url(images/cafe\ 14.png);
+  text-align: center;
+  margin-top: 10px;
+  width: auto;
+  height: 300px;
+  font-size: 60px ;
+  color: whitesmoke;
+  font-style: italic;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 2px 2px 30px black; 
+  margin-bottom: 150px;
+
+
+ }
+
+ p{
+
+     font-size: 30px;
+     text-align: right;
+     text-shadow: 2px 2px 6px rgb(81, 81, 81);
+      
+
+
+
+ }
+ .h1 {
+   text-align: right;
+        text-shadow: 2px 2px 6px rgb(81, 81, 81);
+        text-decoration: underline;
+
+
+
+ }
+
+form{
+
+  width: 400px;
+  height: 600px;
+  background-color: #3a2c20a2;
+  border-radius: 20px 20px 20px 20px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 10px 10px 30px black;
+
+
+
+
+}
+ input{
+   
+  width: 70%;
+  margin-left: 13%;
+  height: 40px;
+  margin-top: 60px;
+  box-shadow: 4px 4px 8px black;
+  
+
+
+ } 
+
+@media(max-width:600px){
+
+  
+body{
+
+  width: 600px;
+  height: auto;
+
+ }
+
+h1{
+  
+  font-size: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 7%;
+
+ }
+ 
+ header{
+
+  width: auto;
+  height: 12%;
+
+ }
+
+ .h1{
+   font-size: 1.5rem;
+ }
+
+ p{
+
+  font-size: 1rem;
+  
+
+
+ }
+
+ form{
+
+  width: 50%;
+  height: 40%;
+
+
+ }
+  input{
+
+  width: 60%;
+  height: 8%;
+  margin-top: 13%;
+
+  }
+}

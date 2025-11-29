@@ -1,0 +1,299 @@
+ 
+ header{
+
+  background-image: url(images/cafe\ 14.png);
+  text-align: center;
+  margin-top: 10px;
+  width: auto;
+  height: 300px;
+  font-size: 60px ;
+  color: whitesmoke;
+  font-style: italic;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 2px 2px 30px black; 
+  margin-bottom: 150px;
+
+
+ }
+
+  h1{
+ padding-top: 50px;
+ text-shadow: 8px 8px 10px black;
+
+ }
+
+  body{
+
+   background-color: #806046e8;
+
+ }
+
+ .imgg{
+
+
+    width: 200px;
+    height: 200px;
+ }
+
+h2{
+
+
+     text-align: right;
+   font-size: 40px;
+    text-shadow: 8px 8px 10px black;   
+   color: whitesmoke;
+   padding-top: 30px;
+   margin-right: 20px;
+
+
+}
+
+
+.boxx1{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px ;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+    
+
+
+}
+
+
+.boxx2{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+  flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+}
+
+
+.boxx3{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+    
+   flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+}
+
+.boxx4{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px black;
+ margin-left: 10%;
+      flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+
+}
+
+
+.boxx5{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+  flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;    
+
+
+}
+
+
+
+.boxx6{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+    
+  flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+}
+
+
+.boxx7{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px black;
+ margin-left: 10%;
+      flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+
+}
+
+
+
+.boxx8{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+      flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+
+}
+
+
+
+.boxx9{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+      flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+
+}
+
+
+.boxx10{
+
+
+ border: solid 2px ;
+ border-radius: 7px 7px 7px 7px;
+ width: 200px;
+ height: 300px;
+ text-align: center;
+ background-color: #6a4f39;
+ font-size: 30px;
+ box-shadow: 10px 10px 30px  black;
+ margin-left: 10%;
+      flex-direction: row;    
+   gap: 20px;
+   flex-wrap: wrap;
+
+
+}
+.wewe{
+flex-wrap: wrap;
+display: flex;
+
+
+
+
+}
+p{
+
+ font-size: 30px;
+
+}
+span{
+
+    color: whitesmoke;
+    text-decoration: underline;
+}
+@media(max-width:600px){
+
+
+
+
+
+    body{
+
+  width: 600px;
+  height: auto;
+
+ }
+
+ header{
+
+  width: auto;
+  height: 12%;
+
+ }
+
+ h1{
+  
+  font-size: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 7%;
+
+ }
+ 
+}
