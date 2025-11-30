@@ -1,7 +1,8 @@
  
  header{
 
-  background-image: url( 14.png);
+    background-image: url(cafe\ 14.png);
+
   text-align: center;
   margin-top: 10px;
   width: auto;
@@ -283,7 +284,7 @@ span{
  header{
 
   width: auto;
-  height: 12%;
+  height: 19%;
 
  }
 
@@ -297,5 +298,6 @@ span{
  }
  
 }
+
 
 
