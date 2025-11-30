@@ -253,6 +253,7 @@ h2{
 .wewe{
 flex-wrap: wrap;
 display: flex;
+  gap: 20px; 
 
 
 
@@ -298,6 +299,7 @@ span{
  }
  
 }
+
 
 
 
