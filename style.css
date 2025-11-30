@@ -426,7 +426,7 @@
  footer{
 
  width: auto;
- height: 20%;
+ height: 30%;
 
 
 
@@ -436,7 +436,7 @@
 
 
 
-  font-size: 1.5rem;
+  font-size: 1rem;
  }
 
 
@@ -444,3 +444,4 @@
   
 
 }
+
